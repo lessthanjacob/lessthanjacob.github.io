@@ -44,3 +44,4 @@ exclude:
   - "node_modules"
   - "package.json"
   - "Grunfile.coffee"
+  - "Rakefile"
