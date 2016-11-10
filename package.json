@@ -1,0 +1,27 @@
+{
+  "name": "lessthanjacob.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_site/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessthanjacob/lessthanjacob.github.io.git"
+  },
+  "author": "Jacob Sheehy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lessthanjacob/lessthanjacob.github.io/issues"
+  },
+  "homepage": "https://github.com/lessthanjacob/lessthanjacob.github.io",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^1.0.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lessthanjacob.github.io",
+  "homepage": "https://github.com/lessthanjacob/lessthanjacob.github.io",
+  "authors": [
+    "Jake Sheehy <jake@aloha.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

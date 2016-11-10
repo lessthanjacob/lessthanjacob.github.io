@@ -1,0 +1,36 @@
+---
+#
+---
+.code-block {
+  width: auto;
+  margin: auto;
+  background-color: #424242;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #07121d;
+  color: #FFFFFF;
+  margin-top: 40px;
+  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  font-size: 16px;
+  @media (max-width: 720px) {
+    text-align: left !important;
+    white-space: pre-wrap;
+    width: 480px;
+    font-size: 16px;
+  }
+  @media (max-width: 540px) {
+    width: 350px;
+    font-size: 12px;
+  }
+}
+
+.code-block-syntax-orange {
+  color: #FFB347;
+}
+
+.code-block-syntax-green {
+  color: #03C03C;
+}
+
+.code-block-syntax-red {
+  color: #FF6961;
+}
