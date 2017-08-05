@@ -45,3 +45,5 @@ exclude:
   - "package.json"
   - "Grunfile.coffee"
   - "Rakefile"
+  
+github: [metadata]
