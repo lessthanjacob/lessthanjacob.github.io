@@ -34,3 +34,47 @@
 .code-block-syntax-red {
   color: #FF6961;
 }
+
+.typed-name-container {
+  text-align: center;
+}
+.typed-name {
+  font-size: 44px;
+  font-weight: 300;
+}
+
+.typed-cursor{
+  font-size: 44px;
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+}
+
+.social-icons-container {
+  text-align: center;
+}
+
+.social-icon {
+  font-size: 44px !important;
+  display: inline-block;
+  padding-right: 10px;
+}
+
+@keyframes blink{
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+
+@-webkit-keyframes blink{
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+
+@-moz-keyframes blink{
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
